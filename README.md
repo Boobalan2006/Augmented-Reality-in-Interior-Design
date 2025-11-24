@@ -4,7 +4,7 @@ A modern Android mobile application that brings furniture shopping to life with 
 
 ## 🎯 Overview
 
-FurniCraft AR is an innovative furniture shopping application that leverages cutting-edge AR technology to help users visualize furniture items in their real environment. Built with Jetpack Compose and modern Android architecture, it provides a seamless and intuitive user experience for exploring and interacting with 3D furniture models.
+ARID is an innovative furniture shopping application that leverages cutting-edge AR technology to help users visualize furniture items in their real environment. Built with Jetpack Compose and modern Android architecture, it provides a seamless and intuitive user experience for exploring and interacting with 3D furniture models.
 
 ## ✨ Features
 
@@ -283,6 +283,6 @@ For support, email support@simform.com or open an issue on GitHub.
 
 ---
 
-**Last Updated**: November 2024
+**Last Updated**: November 2025
 
-For the latest updates and information, visit the [GitHub repository](https://github.com/simform/SSCompose-FurniCraftAR).
+
