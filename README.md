@@ -1,4 +1,4 @@
-# FurniCraft AR - Augmented Reality Furniture Visualization
+# ARID - Augmented Reality Furniture Visualization
 
 A modern Android mobile application that brings furniture shopping to life with Augmented Reality (AR) technology. Visualize furniture pieces in your own space before making a purchase decision.
 
@@ -98,8 +98,8 @@ FurniCraft AR is an innovative furniture shopping application that leverages cut
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/SSCompose-FurniCraftAR.git
-   cd SSCompose-FurniCraftAR-master
+   git clone https://github.com/yourusername/Augmented-Reality-in-Interior-Design.git
+   cd Augmented-Reality-in-Interior-Design
    ```
 
 2. **Set up API Keys**
@@ -121,11 +121,11 @@ FurniCraft AR is an innovative furniture shopping application that leverages cut
 ## 📁 Project Structure
 
 ```
-SSCompose-FurniCraftAR/
+Augmented-Reality-in-Interior-Design/
 ├── app/
 │   ├── src/
 │   │   ├── main/
-│   │   │   ├── java/com/simform/ssfurnicraftar/
+│   │   │   ├── java/com/simform/ar/
 │   │   │   │   ├── data/
 │   │   │   │   │   ├── local/          # Room database, entities, DAOs
 │   │   │   │   │   ├── remote/         # API services (Sketchfab)
@@ -139,7 +139,7 @@ SSCompose-FurniCraftAR/
 │   │   │   │   │   ├── theme/          # Material Design 3 theme
 │   │   │   │   │   └── viewmodel/      # ViewModels
 │   │   │   │   ├── util/               # Utility functions
-│   │   │   │   └── SSFurniCraftARApplication.kt
+│   │   │   │   └── ARApplication.kt
 │   │   │   ├── res/
 │   │   │   │   ├── drawable/           # Images and icons
 │   │   │   │   ├── values/             # Strings, colors, dimensions
@@ -222,7 +222,7 @@ The app features comprehensive animations:
 
 The app supports deep linking for furniture models:
 ```
-https://ssfurnicraftar.vercel.app/models/{modelId}
+https://Augmented-Reality-in-Interior-Design.vercel.app/models/{modelId}
 ```
 
 ## 📱 Supported Devices
@@ -247,12 +247,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
 
-**Simform Solutions**
-
-- Website: [simform.com](https://www.simform.com)
-- GitHub: [@simform](https://github.com/simform)
 
 ## 🙏 Acknowledgments
 
